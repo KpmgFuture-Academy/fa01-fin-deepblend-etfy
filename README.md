@@ -1,7 +1,9 @@
 # ETF 투자 도우미 AI 챗봇
 
+
 ## 프로젝트 소개
 ETF 투자 도우미 AI 플랫폼은 초보 투자자부터 전문 투자자까지 ETF 투자에 필요한 모든 정보와 가이드를 제공하는 종합 플랫폼입니다. ETF 상품에 대한 학습과 투자여정까지 함께 하고자 기획하게 되었습니다.
+일정 1월4일
 
 ## 프리뷰
 ![메인 화면](https://velog.velcdn.com/images/lheehee/post/a30d8b5c-d807-4fbe-9494-b4af3393451f/image.png)
